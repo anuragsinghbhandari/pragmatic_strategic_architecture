@@ -48,14 +48,4 @@ prepare/
 - Modify `train.py` to adjust hyperparameters, batch size, or data paths.
 - Use `src/utils/pipeline.py` for feature engineering and advanced training workflows.
 
-## Results
-
-- Training and validation metrics are printed during training.
-
-## Contributing
-
-Pull requests and issues are welcome! Please open an issue for bug reports or feature requests.
-
-## License
-
-See `LICENSE` for details.
+## Will work on this in future once fundamentals are strong :)
